@@ -1,7 +1,6 @@
 # Programming II Projects: Retro Console Auction
 
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
-![University](https://img.shields.io/badge/University-UDC-blue?style=flat-square)
 ![Score](https://img.shields.io/badge/Grade-High_Pass-success?style=flat-square)
 
 ## 📖 Overview
